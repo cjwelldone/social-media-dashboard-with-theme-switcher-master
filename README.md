@@ -61,6 +61,8 @@ Users should be able to:
 ### Continued development
 
 - will use several scss files in the future
+- better idea for themeModeSwitch with input , checked & pseudoelements
+[click here](https://css-tricks.com/the-checkbox-hack/)
 
 ### Useful resources
 
