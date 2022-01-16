@@ -52,7 +52,7 @@ Users should be able to:
 
 - how to implement different themes (light / dark) with JS
 
-[ThemeSwitcher](//Src: https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js/)
+[ThemeSwitcher](https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js)
 
 - new idea to 
 - how to use scss
@@ -69,7 +69,7 @@ Users should be able to:
 
 - [Gradient Border with BorderRadius](https://dev.to/afif/border-with-gradient-and-radius-387f)
 
-- [ThemeSwitcher](https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js/
+- [ThemeSwitcher](https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js)
 
 ## Author
 - Frontend Mentor - [@CJWellDone](https://www.frontendmentor.io/profile/cjwelldone)
