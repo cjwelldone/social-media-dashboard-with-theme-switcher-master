@@ -51,25 +51,26 @@ Users should be able to:
 [Gradient Border with BorderRadius](https://dev.to/afif/border-with-gradient-and-radius-387f)
 
 - how to implement different themes (light / dark) with JS
-[ThemeSwitcher](//Src: https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js/
-)
+
+[ThemeSwitcher](//Src: https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js/)
+
 - new idea to 
 - how to use scss
 - structure right from the beginning is very important
-- 
 
 ### Continued development
 
 - will use several scss files in the future
 - better idea for themeModeSwitch with input , checked & pseudoelements
-[click here](https://css-tricks.com/the-checkbox-hack/)
+
+[css-tricks.com/the-checkbox-hack](https://css-tricks.com/the-checkbox-hack/)
 
 ### Useful resources
 
 - [Gradient Border with BorderRadius](https://dev.to/afif/border-with-gradient-and-radius-387f)
 
-- [ThemeSwitcher](//Src: https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js/
+- [ThemeSwitcher](https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js/
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/cjwelldone)
+- Frontend Mentor - [@CJWellDone](https://www.frontendmentor.io/profile/cjwelldone)
 
