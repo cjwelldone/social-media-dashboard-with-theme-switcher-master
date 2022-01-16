@@ -30,11 +30,11 @@ Users should be able to:
 
 ### Screenshot
 
-[he](design/screenshot.jpg)
+[Screenshot](design/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [see the solution here](https://cjwelldone.github.io/social-media-dashboard-with-theme-switcher-master/)
 
 ## My process
 
