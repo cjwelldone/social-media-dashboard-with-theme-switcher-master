@@ -1,5 +1,3 @@
-//Src: https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js/
-
 // Wait for document to load
 document.addEventListener("DOMContentLoaded", function(event) {
     document.documentElement.setAttribute("data-theme", "light");
