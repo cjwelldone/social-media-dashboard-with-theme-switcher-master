@@ -48,7 +48,7 @@ Users should be able to:
 
 - how to implement gradient on borders, which have border-radius: [Gradient Border with BorderRadius](https://dev.to/afif/border-with-gradient-and-radius-387f)
 
-- how to implement different themes (light / dark) with JS:[ThemeSwitcher](https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js)
+- how to implement different themes (light / dark) with JS: [ThemeSwitcher](https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js)
 
 - new idea to 
 - how to use scss
@@ -57,8 +57,7 @@ Users should be able to:
 ### Continued development
 
 - will use several scss files in the future
-- better idea for themeModeSwitch with input , checked & pseudoelements
--[css-tricks.com/the-checkbox-hack](https://css-tricks.com/the-checkbox-hack/)
+- better idea for themeModeSwitch with input , checked & pseudoelements: [css-tricks.com/the-checkbox-hack](https://css-tricks.com/the-checkbox-hack/)
 
 ### Useful resources
 
