@@ -46,13 +46,9 @@ Users should be able to:
 
 ### What I learned
 
-- how to implement gradient on borders, which have border-radius: 
+- how to implement gradient on borders, which have border-radius: [Gradient Border with BorderRadius](https://dev.to/afif/border-with-gradient-and-radius-387f)
 
-- [Gradient Border with BorderRadius](https://dev.to/afif/border-with-gradient-and-radius-387f)
-
-- how to implement different themes (light / dark) with JS:
-
-- [ThemeSwitcher](https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js)
+- how to implement different themes (light / dark) with JS:[ThemeSwitcher](https://www.pullrequest.com/blog/how-to-implement-dark-mode-with-css-js)
 
 - new idea to 
 - how to use scss
