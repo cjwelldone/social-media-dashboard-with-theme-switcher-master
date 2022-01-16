@@ -361,7 +361,8 @@ footer {
 }
 
 /* Mobile Screen Size */
-@media (max-width: 375px) {
+/* @media (max-width: 375px) */
+@media (max-width: 1110px) {
   [data-theme="light"] {
     --twoBackgrounds: var(--backgroundLightMobile);
   }
